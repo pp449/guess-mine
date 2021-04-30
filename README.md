@@ -7,4 +7,4 @@ Realtime Game built with SocketIO, GULP and NODE
 - [x] Server
 - [x] Pug
 - [x] Static
-- [ ] SocketIO
+- [x] SocketIO
